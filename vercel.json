@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/NARS-video", "destination": "/index.html" }
+  ]
+}
